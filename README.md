@@ -56,9 +56,11 @@ Three folders:
 
 ## How to Run and Play the Game
 
-If you want to run the game *locally* on your computer,you can download the files from this repository or clone them.
+- **Run**: Click [here](https://lpinzari.github.io/bugs-arcade-game/) to play the LivePeview of the Game hosted on GitHub. If you want to run the game *locally* on your computer,you can download the files from this repository or clone them.
 
 - **Download**: Click the `Clone or download` green button and you'll get the *Project Zip* file. When your download finishes, unzip the file and open the `index.html` on your browser.
+
+- **Clone**: type into your terminal the following <code> $ git clone https://github.com/lpinzari/bugs-arcade-game.git </code>. When it finishes cloning, open the `index.html` file on your browser.
 
 - **Play**: The application is usable on any device that support a key arrows control. The key's symbol are: `<-`(LEFT), `->` (RIGHT) and corrsponding UP and DOWN arrows.
 
@@ -66,7 +68,7 @@ If you want to run the game *locally* on your computer,you can download the file
 - **HTML5 CANVAS | JS(ES6) | CSS**
 
 ### Dependencies
-- [Fontawsome 4.6.1](https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css) to display the smile's symbo on the modal.
+- [Fontawsome 4.6.1](https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css) to display the smile's symbol on the modal.
 
 ### Acknowledgement
 I'd like to thank the Udacity's instructors for the precious resources and video lectures.
